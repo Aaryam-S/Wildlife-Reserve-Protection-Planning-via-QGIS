@@ -31,8 +31,11 @@ Visualizing the Risk Landscape
 
 Below is the generated spatial risk map of Etosha National Park. High-threat zones concentrate heavily along accessible infrastructure and water boundaries, while remote interiors represent lower immediate threat gradients.
 
-![Etosha Risk Surface Map](images/etosha_risk_map.png)
-(Note: Ensure your map image is saved as etosha_risk_map.png inside the images directory).
+![Etosha Risk Surface Map](images/RiskSurface.png)
+![Etosha Risk Surface Map With Features](images/RiskSurfaceWithFeatures.png)
+![Road Proximity Map for Risk Calculation](images/Road_Proximity.png)
+![Water Proximity Map for Risk Calculation](images/Water_Proximity.png)
+
 
 Getting Started and Instructions
 
