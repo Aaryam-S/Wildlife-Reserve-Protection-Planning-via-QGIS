@@ -48,12 +48,14 @@ Make sure you have Python installed along with the required geospatial and optim
 pip install numpy rasterio pulp matplotlib
 
 Repository Structure
+```text
 Wildlife Reserve Protection Planning/
 ├── images/
 │   └── etosha_risk_map.png     # Visual map outputs
 ├── Clean_Risk_Surface.tif      # Spatial risk matrix (GIS raster)
 ├── etosha_optimizer.py         # Main computational optimization script
 └── README.md                   # Project documentation
+```
 
 Running the Optimization Script
 1. Ensure your Clean_Risk_Surface.tif and etosha_optimizer.py are in the same directory.
